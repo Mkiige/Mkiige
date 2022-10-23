@@ -86,4 +86,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
   
 
-![](assets/Bottom_down.svg)
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/Mkiige-0713) -->
+
+<img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
