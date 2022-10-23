@@ -52,7 +52,6 @@
 ![](https://github.com/Mkiige/Mkiige/blob/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="720" height="auto" /></a>
 
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
@@ -70,13 +69,9 @@
 <img src="https://profile-counter.glitch.me/Mkiige/count.svg">  
 
 counting of visitors to this page in this section started from June 6, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-### Profile Views
-counting of visitors to this page in this section started from June 6, 2022
-
-![](https://count.getloli.com/get/@Mkiige.github.readme)
-</br>
+    
 
 [MIT](LICENSE)
  </p>
@@ -84,7 +79,7 @@ counting of visitors to this page in this section started from June 6, 2022
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
