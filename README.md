@@ -17,7 +17,13 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mary+Kiige;+Welcome+to+My+Profile!;To+more+years+of+programming+experience;Always+learning+new+things+;tech+enthusiast+;ALX+community+member)](https://git.io/typing-svg)
 
-
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://twitter.com/marykiige" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/twitter.svg" alt="Mkiige" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/marykiige" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/linkedin.svg" alt="Mkiige" height="30" width="30" /></a>
+<a href="mailto:mkiige77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+254728322908" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p>
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -40,26 +46,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkiige"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <!--   grid-snake -->
 ![](https://github.com/Mkiige/Mkiige/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Mkiige&skills=Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/marykiige" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/twitter.svg" alt="Mkiige" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/marykiige" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/linkedin.svg" alt="Mkiige" height="30" width="30" /></a>
-<a href="mailto:mkiige77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+254728322908" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
 
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
@@ -69,7 +62,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mkiige" alt="Mkiige" /></a>
 </p>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 #### Thanks for visiting :heart:
 
