@@ -38,7 +38,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mkiige&hide_border=true&theme=redical)
+![Mkiige's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mkiige&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
