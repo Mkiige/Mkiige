@@ -20,7 +20,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/marykiige" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/twitter.svg" alt="Mkiige" height="30" width="30" /></a>
-<a href="[www.linkedin.com/in/mary-kiige](https://www.linkedin.com/in/mary-kiige/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/linkedin.svg" alt="Mkiige" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mary-kiige/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/linkedin.svg" alt="Mkiige" height="30" width="30" /></a>
 <a href="mailto:mkiige77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mkiige/Mkiige/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+254728322908" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
